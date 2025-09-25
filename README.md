@@ -1,4 +1,4 @@
-🌍 HydroSense – Smart Groundwater Management
+# HydroSense – Smart Groundwater Management
 
 HydroSense is an Android app that transforms DWLR and climate data into actionable insights for sustainable water management. It provides real-time monitoring, AI-powered forecasting, anomaly detection, and role-based dashboards for farmers, researchers, and policymakers.
 
