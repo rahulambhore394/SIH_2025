@@ -1,11 +1,25 @@
+🌍 HydroSense – Smart Groundwater Management
 
-  # HydroSense App Prototype Design
+HydroSense is an Android app that transforms DWLR and climate data into actionable insights for sustainable water management. It provides real-time monitoring, AI-powered forecasting, anomaly detection, and role-based dashboards for farmers, researchers, and policymakers.
 
-  This is a code bundle for HydroSense App Prototype Design. The original project is available at https://www.figma.com/design/QQIwobB513QXzRLPDAVHWO/HydroSense-App-Prototype-Design.
+🚀 Features
 
-  ## Running the code
+Real-time groundwater level dashboard.
 
-  Run `npm i` to install the dependencies.
+AI forecasting (LSTM), risk alerts (flood/drought).
 
-  Run `npm run dev` to start the development server.
-  
+Anomaly detection & water quality index (WQI).
+
+Role-based chatbot for farmers & officers.
+
+Climate impact reports & advisories.
+
+🛠 Tech Stack
+
+Frontend: Android (Kotlin, Jetpack Compose, Google Maps, MPAndroidChart).
+
+Backend: Firebase (Auth, Firestore, FCM), Node.js / Spring Boot.
+
+AI/ML: LSTM, XGBoost, Isolation Forest, RAG Chatbot.
+
+Data Sources: CGWB DWLR, IMD, OpenWeather, NASA POWER, CPCB.
